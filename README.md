@@ -27,10 +27,13 @@
    You start by running node index.js in your command line. It will then show a series of questions that need to be answered in order to create your README file.<br/>
 
    Video: ![ Alt text](./images/README.gif)
+  
+  ## Contributing
+     Martha Gamez.
 
   ## Questions
-  Link to my GitHub profile:https://github.com/Martha121 <br/>
-  If you have questions please contactme me at:marthagamez211@gmail.com
+  Link to my GitHub profile: https://github.com/Martha121 <br/>
+  If you have questions please contactme me at: marthagamez211@gmail.com
 
   ## License
   This application is covered by the MIT license.<br/>
