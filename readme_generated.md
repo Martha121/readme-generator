@@ -2,7 +2,7 @@
   # README GENERATOR
   ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg) 
   ## Description
-   Every project needs a README.md file that contains clear information about the app. The README file guides the user about what the app is for, how to use the app, how to install it.
+   Every project needs a README.md file that contains clear information about the app. The README file guides the user about what the app is for, how to use the app,how to install it.
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -12,14 +12,14 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-   run npm install inquirer
+   run install inquirer
   ## Usage
-   Run node index.
+   run node index
   ## Contributing
-  Martha Gamez
+  MArtha Gamez
   ## Questions
   
-  Link to my GitHub profile:https://github.com/Marta121 <br/>
+  Link to my GitHub profile:https://github.com/Martha121 <br/>
   If you have questions please contactme me at:marthagamez211@gmail.com
 
   ## License
