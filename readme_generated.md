@@ -1,8 +1,8 @@
  
-  # rrrr
-    
+  # ggg
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)] 
   ## Description
-   tttt
+   jjjj
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -12,9 +12,9 @@
   - [Tests](#tests)
   - [Questions](#questions)
   ## Installation
-   wwww
+   kkk
   ## Usage
-   dddd
+   lll
   ## License
-  This application is covered by the GNU license.
-  Link: la liga de la licencia. 
+  This application is covered by the Apache license.
+  Link:  http://www.apache.org/licenses/LICENSE-2.0.txt . 
