@@ -5,7 +5,7 @@ function renderLicenseBadge(license) {
   switch(license){
     case "Apache":
         // Add link to license here
-        badgeImg = '[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)]';
+        badgeImg = '![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
         break;
     case "Academic":
         // Add link to license here
