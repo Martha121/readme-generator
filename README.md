@@ -3,7 +3,7 @@
   ## Description
    Every project needs a README.md file that contains clear information about the app. The README file guides the user about what the app is for, how to use the app, how to install it.
    
-   This is a command-line application that runs with Node.js that dynamically generates a README.md file based on user input. Check out the readme_generated.md in this repo as an example.
+   This is a command-line application that runs with Node.js that dynamically generates a README.md file based on user input. Check out the [file](#readme_generated.md) in this repo as an example.
 
   ## Table of Contents
   - [Description](#description)
