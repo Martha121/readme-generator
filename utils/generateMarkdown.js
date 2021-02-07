@@ -88,6 +88,8 @@ function generateMarkdown(data) {
    ${data.installation}
   ## Usage
    ${data.usage}
+  ## Contributing
+  ${data.collaborators}
   ## Questions
   
   Link to my GitHub profile:https://github.com/${data.username} <br/>
