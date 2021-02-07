@@ -2,7 +2,7 @@
   # README Generator
   ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg) 
   ## Description
-   app to create a readme file
+   app to help create a readme file
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -14,11 +14,11 @@
   ## Installation
    run npm
   ## Usage
-   create readme file for projects
+   run node index
   ## Questions
   
-  Link to my GitHub profile:https://github.com/JONH234 <br/>
-  If you have questions please contactme me at:jonh234.com
+  Link to my GitHub profile:https://github.com/JOHN234 <br/>
+  If you have questions please contactme me at:john234.com
 
   ## License
   This application is covered by the Apache license.<br/>
