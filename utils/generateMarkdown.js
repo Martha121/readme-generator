@@ -89,8 +89,8 @@ function generateMarkdown(data) {
   ## Usage
    ${data.usage}
   ## Questions
-  ${data.username}
-  Link to my GitHub profile:https://github.com/Martha121 <br/>
+  
+  Link to my GitHub profile:https://github.com/${data.username} <br/>
   If you have questions please contactme me at:${data.email}
 
   ## License
