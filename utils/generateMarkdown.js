@@ -7,25 +7,21 @@ function renderLicenseBadge(license) {
         // Add link to license here
         badgeImg = '![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)';
         break;
-    case "Academic":
-        // Add link to license here
-        badgeImg = 'https://opensource.org/licenses/AFL-3.0';
-        break;
     case "GNU":
         // Add link to license here
-        badgeImg = ' http://www.apache.org/licenses/LICENSE-2.0.txt ';
+        badgeImg = '![License: GPL v2](https://img.shields.io/badge/License-GPL%20v2-blue.svg) ';
         break;
     case "ISC":
         // Add link to license here
-        badgeImg = 'https://opensource.org/licenses/ISC';
+        badgeImg = '![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)';
         break;
     case "MIT":
         // Add link to license here
-        badgeImg = 'https://opensource.org/licenses/MIT';
+        badgeImg = '![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)';
         break;
     case "Mozilla":
         // Add link to license here
-        badgeImg = 'https://opensource.org/licenses/MPL-2.0';
+        badgeImg = '![License: MPL 2.0](https://img.shields.io/badge/License-MPL%202.0-brightgreen.svg)';
         break;
     case "Open":
         // Add link to license here
@@ -45,10 +41,6 @@ function renderLicenseLink(license) {
     case "Apache":
         // Add link to license here
         link = ' http://www.apache.org/licenses/LICENSE-2.0.txt ';
-        break;
-    case "Academic":
-        // Add link to license here
-        link = 'https://opensource.org/licenses/AFL-3.0';
         break;
     case "GNU":
         // Add link to license here
@@ -100,6 +92,11 @@ function generateMarkdown(data) {
    ${data.installation}
   ## Usage
    ${data.usage}
+  ## Questions
+  ${data.username}
+  Link to my GitHub profile:'https://github.com/Martha121'
+  If you have questions please contactme me at:${data.email}
+
   ## License
   This application is covered by the ${data.license} license.
   Link: ` + renderLicenseLink(data.license) + `. 

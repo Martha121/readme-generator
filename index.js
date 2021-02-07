@@ -11,6 +11,16 @@ const questions =[
             message: "Write your Title's project",
         },
         {
+            type: 'input',
+            name: 'username',
+            message: 'What is your github username?'
+        },
+        {
+            type: 'input',
+            name: 'email',
+            message: 'What is your email?'
+        },
+        {
             type: "input",
             name: "description",
             message: "Write a description of your project: "
@@ -36,7 +46,6 @@ const questions =[
             message: "Chose the appropriate license for this project: ",
             choices: [
                 "Apache",
-                "Academic",
                 "GNU",
                 "ISC",
                 "MIT",
@@ -51,7 +60,7 @@ const questions =[
         .then((answers) => {
                 console.log(answers);
             var fileName = "readme_generated.md";
-            // genreate markdown text
+            // genrate markdown text
             var markdownText = generateMarkdown(answers);
             // write markdown text to file
             writeToFile(fileName, markdownText);
