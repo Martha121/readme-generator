@@ -1,8 +1,8 @@
  
-  # Read me Generator
+  # README Generator
   ![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg) 
   ## Description
-   Command line applicaton that creates a "readme" file based on user input.
+   app to create a readme file
   ## Table of Contents
   - [Description](#description)
   - [Installation](#installation)
@@ -14,11 +14,11 @@
   ## Installation
    run npm
   ## Usage
-   Create "READ.me" files for projects.
+   create readme file for projects
   ## Questions
-  Martha121
-  Link to my GitHub profile:https://github.com/Martha121 <br/>
-  If you have questions please contactme me at:marthagamez211@gmail.com
+  
+  Link to my GitHub profile:https://github.com/JONH234 <br/>
+  If you have questions please contactme me at:jonh234.com
 
   ## License
   This application is covered by the Apache license.<br/>

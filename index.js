@@ -33,12 +33,12 @@ const questions =[
         {
             type: "input",
             name: "usage",
-            message: "What is this project usage for?"
+            message: "Write instructions for use:"
         },
         {
             type: "input",
             name: "collaborators",
-            message: "List your collaborators, include links to their GitHub profiles"
+            message: "List your collaborators"
         },
         {
             type: "list",
