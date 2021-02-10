@@ -26,8 +26,7 @@
   ## Usage
    You start by running node index.js in your command line. It will then show a series of questions that need to be answered in order to create your README file.<br/>
 
-   Video: ![Alt text](https://youtu.be/HCjs5KrxgvE)
-  
+   Link to the video: https://youtu.be/HCjs5KrxgvE
   ## Contributing
      Martha Gamez.
 
